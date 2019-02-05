@@ -11,7 +11,7 @@ Eight of the following datasets were merged together into one dataframe using th
 - School Attendance (hs_directory.csv)
 - SAT scores by School (sat_results.csv)   
 
-Within the Jupyter Notebook (schools.ipynb) Data Cleaning and Exploratory Data Analysis were conducted in order to discover the answers to the following questions:
+Within the Jupyter Notebook (Analyzing NYC High School SAT Scores.ipynb) **Data Cleaning and Exploratory Data Analysis** were conducted in order to discover the answers to the following questions:
 - Are there any ethnic differences in SAT scores?
 - Do Female students outperform Male students in SAT scores?
 - Is there a strong correlation between high school students who take Advanced Placement (AP) exams and SAT scores?
